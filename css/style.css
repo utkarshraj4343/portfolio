@@ -55,9 +55,12 @@
 
 .about .hero{
     width: 20%;
-    height: 200px;
+    height: 400px;
     background-color: #fff;
     border-radius: 5rem;
+    background-image: url("/images/cc576d5b-dc81-451c-bbbf-e06f26683e99.jpg");
+    background-repeat: no-repeat;
+    background-size:auto;
 }
 
 .about .heroText{
